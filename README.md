@@ -1,4 +1,4 @@
-# 1-semestre-python
+# Listas Python
 
 ### Códigos em python feito durante a disciplina de Algorítmos e Lógica de Programação no 1º Semestre na FATEC
 
